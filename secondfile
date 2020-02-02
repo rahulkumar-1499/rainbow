@@ -1,14 +1,1 @@
-Revert "Revert "Rahul first commit for testing git""
-
-This reverts commit 123ee8eacb687827a7bc1405cf5887096855182c.
-
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-#
-# On branch master
-# Your branch is ahead of 'origin/master' by 2 commits.
-#   (use "git push" to publish your local commits)
-#
-# Changes to be committed:
-#	new file:   names.txt
-#
+My 2nd file
